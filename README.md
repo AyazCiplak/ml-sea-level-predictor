@@ -30,4 +30,4 @@ In order to accelerate modeling times, the CUDA platform is integrated to make u
 - Sources
 
 
-  After analysing the model's predictions on test data, it had an RMSE value of 0.0681. The creation and training of the model was also timed with and without GPU integration, and GPU-based computation led to a decrease of 51.0% in training time on average. 
+  After analysing the model's predictions on test data, it had a MAPE value of 0.0681. The creation and training of the model was also timed with and without GPU integration, and GPU-based computation led to a decrease of 51.0% in training time on average. 
